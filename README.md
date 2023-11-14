@@ -4,9 +4,9 @@ Este é o frontend Vue.js para o Sistema de Gerenciamento de Procedimentos, que 
 
 ## Funcionalidades Principais
 
-- **Listagem de Informações:** Visualize uma lista completa de usuários cadastrados, tal como o procedimento realizado e seu respectivo valor.
-- **Atualização de Informações:** Atualize as informações dos usuários existentes.
-- **Exclusão de Informações:** Remova usuários que não são mais necessários.
+- **Listagem de Informações:** Visualize uma lista completa de clientes cadastrados, tal como o procedimento realizado e seu respectivo valor.
+- **Atualização de Informações:** Atualize as informações dos clientes existentes.
+- **Exclusão de Informações:** Remova clientes que não são mais necessários.
 
 ## Tecnologias Utilizadas
 
