@@ -16,3 +16,5 @@ Este é o frontend Vue.js para o Sistema de Gerenciamento de Procedimentos, que 
 ## Configuração da API
 
 Certifique-se de configurar a URL corretamente para a instância da API RESTful citada no começo.
+
+A aplicação estara disponível em http://localhost:8081. 
