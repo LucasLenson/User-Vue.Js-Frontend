@@ -16,6 +16,7 @@
 - Para checar se foram instalados corretamente utilize os seguintes comandos:
 
      node -v
+
      npm -v
 
  Configuração da API
